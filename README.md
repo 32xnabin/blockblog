@@ -1,4 +1,4 @@
-# BockBlog is a Blockchain dApp conceived to create a decentralized blog.
+# BlockBlog is a Blockchain dApp conceived to create a decentralized blog.
 
 Note: This project is not yet complete and is just in progress
 
